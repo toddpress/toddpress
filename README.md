@@ -1,5 +1,5 @@
 ### Hi there 👋
-![toddpress' stats](https://github-readme-stats.vercel.app/api?username=toddpress&show_icons=true&theme=radical)
+<!-- ![toddpress' stats](https://github-readme-stats.vercel.app/api?username=toddpress&show_icons=true&theme=radical) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toddpress&langs_count=8)](https://github.com/toddpress/github-readme-stats)
 <!--
 **toddpress/toddpress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
