@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img style="height: 1.6rem; width: auto;" src="waving-hand.gif">
 <!-- ![toddpress' stats](https://github-readme-stats.vercel.app/api?username=toddpress&show_icons=true&theme=radical) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toddpress&langs_count=8)](https://github.com/toddpress/github-readme-stats)
 <!--
