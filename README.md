@@ -1,13 +1,14 @@
 ###  <img style="height: 24px; width: 24px;" src="waving-hand.gif" /> Hello, World! <img style="height: 24px;width: 24px;max-width: 100%;transform: scaleX(-1);" src="waving-hand.gif" />
 
-
-
-💖 Curious and passionate developer of all things web <br>
-🌱 Outside work, I'm currently experimenting with microcontroller development for IoT <br>
-🛹 My goto dev board is currently Espressif's ESP32/8266 ⚡🔮⚡<br>
+💖 Curious and passionate developer of all things web 
 <br>
-![toddpress' stats](https://github-readme-stats.vercel.app/api?username=toddpress&show_icons=true&theme=radical)
-<img src="https://camo.githubusercontent.com/1913eb9a8ffa46f08b6fac552ee8abdf80f0a826057295901968881b45a77fde/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d746f64647072657373266c616e67735f636f756e743d34267468656d653d7261646963616c" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=toddpress&amp;langs_count=4&amp;theme=radical" style="display: inline-block; margin-left: 0.4rem; max-width: 100%; height: 195px;">
+🌱 Outside work, I'm currently experimenting with microcontroller development for IoT 
+<br>
+🛹 My goto dev board is currently Espressif's ESP32/8266 ⚡🔮⚡
+<br>
+<br>
+<img src="https://camo.githubusercontent.com/3c3b56d49de379b6e00a90ed799a963cfa9275c4a38579ee63fa8abb5b98055e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d746f64647072657373266c616e67735f636f756e743d34267468656d653d7261646963616c266c61796f75743d636f6d7061637426686964653d68746d6c" alt="toddpress' langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=toddpress&amp;langs_count=5&amp;theme=radical&amp;layout=compact&amp;hide=html" style="display: inline-block; max-width: 100%; margin: 0px 0px 55px 10px; height: 195px;">
+![toddpress' stats](https://github-readme-stats.vercel.app/api?username=toddpress&show_icons=true&theme=radical&count_private=true&hide_progress=true&hide_rank=true)
 
 <!--
 **toddpress/toddpress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
