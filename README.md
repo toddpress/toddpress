@@ -1,4 +1,9 @@
-### Hey, sexy! <img style="height: 12px; width: 12px;" src="waving-hand.gif" width="32"/>
+<!-- ### Hey, sexy! <img style="height: 12px; width: 12px;" src="waving-hand.gif" width="32"/> -->
+💖 Passionate developer of all things web
+
+🌱 Outside work, I'm currently experimenting with microcontroller development for IoT
+
+🛹 My goto dev board is currently Espressif's ESP32/8266 ⚡🔮⚡
 
 <!-- ![toddpress' stats](https://github-readme-stats.vercel.app/api?username=toddpress&show_icons=true&theme=radical) -->
 <!-- <a href="https://github.com/toddpress/toddpress/edit/main/README.md">
