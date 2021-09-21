@@ -1,14 +1,14 @@
-<!-- ### Hey, sexy! <img style="height: 12px; width: 12px;" src="waving-hand.gif" width="32"/> -->
-💖 Passionate developer of all things web
+###  <img style="height: 24px; width: 24px;" src="waving-hand.gif" /> Hello, World! <img style="height: 24px;width: 24px;max-width: 100%;transform: scaleX(-1);" src="waving-hand.gif" />
 
-🌱 Outside work, I'm currently experimenting with microcontroller development for IoT
 
-🛹 My goto dev board is currently Espressif's ESP32/8266 ⚡🔮⚡
 
-<!-- ![toddpress' stats](https://github-readme-stats.vercel.app/api?username=toddpress&show_icons=true&theme=radical) -->
-<!-- <a href="https://github.com/toddpress/toddpress/edit/main/README.md">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toddpress&langs_count=4)](https://github.com/toddpress/github-readme-stats)
-</a> -->
+💖 Curious and passionate developer of all things web <br>
+🌱 Outside work, I'm currently experimenting with microcontroller development for IoT <br>
+🛹 My goto dev board is currently Espressif's ESP32/8266 ⚡🔮⚡<br>
+<br>
+![toddpress' stats](https://github-readme-stats.vercel.app/api?username=toddpress&show_icons=true&theme=radical)
+<img src="https://camo.githubusercontent.com/1913eb9a8ffa46f08b6fac552ee8abdf80f0a826057295901968881b45a77fde/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d746f64647072657373266c616e67735f636f756e743d34267468656d653d7261646963616c" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=toddpress&amp;langs_count=4&amp;theme=radical" style="display: inline-block; margin-left: 0.4rem; max-width: 100%; height: 195px;">
+
 <!--
 **toddpress/toddpress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
