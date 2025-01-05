@@ -7,7 +7,7 @@
 🛹 My goto dev board is currently Espressif's ESP32/8266 ⚡🔮⚡
 <br>
 <br>
-<img src="https://camo.githubusercontent.com/3c3b56d49de379b6e00a90ed799a963cfa9275c4a38579ee63fa8abb5b98055e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d746f64647072657373266c616e67735f636f756e743d34267468656d653d7261646963616c266c61796f75743d636f6d7061637426686964653d68746d6c" alt="toddpress' langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=toddpress&amp;langs_count=5&amp;theme=radical&amp;layout=compact&amp;hide=html" style="display: inline-block; max-width: 100%; margin: 0px 0px 55px 10px; height: 195px;">
+<figure><embed src="https://wakatime.com/share/@cee85f9c-737a-4fc9-9d81-c9079329564d/9fa5a5d1-b571-4895-8bf9-6e822c235d4c.svg"></embed></figure>
 ![toddpress' stats](https://github-readme-stats.vercel.app/api?username=toddpress&show_icons=true&theme=radical&count_private=true&hide_progress=true&hide_rank=true)
 
 <!--
