@@ -1,8 +1,18 @@
+<!-- 
+<p align="center">
+  <h3 align="center">toddpress</h3>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
+-->
+
 <h1>
-    <img style="height: 40px; width: 40px;" src="waving-hand.gif" /> Hello, World!<img style="height: 40px; width: 40px; max-width: 100%;transform: scaleX(-1);" src="waving-hand.gif" />
+    <img style="height: 40px; width: 40px;" src="waving-hand.gif" /> Hello, World! <img style="height: 40px; width: 40px; max-width: 100%; transform: scaleX(-1);" src="waving-hand.gif" />
 </h1>
 
-💖 Curious and passionate developer of all things web 
+💙 Curious and passionate developer of all things web 
 <br>
 🌱 Outside work, I'm currently experimenting with microcontroller development for IoT 
 <br>
