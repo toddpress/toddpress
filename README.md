@@ -9,24 +9,7 @@
 </p>
 
 <!-- Divider: C1 Shimmer -->
-<div align="center">
-  <svg width="100%" height="6">
-    <defs>
-      <linearGradient id="shimmer" x1="0" x2="1">
-        <stop offset="0%" stop-color="#555" />
-        <stop offset="50%" stop-color="#999">
-          <animate attributeName="offset"
-                   values="0;1;0"
-                   dur="3s"
-                   repeatCount="indefinite" />
-        </stop>
-        <stop offset="100%" stop-color="#555" />
-      </linearGradient>
-    </defs>
-
-    <rect width="100%" height="6" fill="url(#shimmer)" />
-  </svg>
-</div>
+---
 
 ## What I'm working on (lately)
 - **Glint** — a tiny signals-based Web Components framework with a DX that doesn’t hate you  
@@ -35,28 +18,7 @@
 - **Local-first AI** experiments with `llama.cpp`, `Ollama`, RAG, Qdrant, embeddings, async ingestion  
 - **Music tech**: MIDI e-drums, high-realism samplers, Pure Data, improvisational workflow tools  
 
-<!-- Divider: C2 Twinkle Pulse -->
-<div align="center">
-  <svg width="100%" height="8">
-    <defs>
-      <linearGradient id="twinkle">
-        <stop offset="0%" stop-color="#8EC5FC" />
-        <stop offset="100%" stop-color="#E0C3FC" />
-      </linearGradient>
-
-      <filter id="twinkle-blur">
-        <feGaussianBlur stdDeviation="2">
-          <animate attributeName="stdDeviation"
-                   values="1;3;1"
-                   dur="2.8s"
-                   repeatCount="indefinite" />
-        </feGaussianBlur>
-      </filter>
-    </defs>
-
-    <rect width="100%" height="6" fill="url(#twinkle)" filter="url(#twinkle-blur)" />
-  </svg>
-</div>
+---
 
 ## What I actually use day-to-day
 **Languages:**  
@@ -86,25 +48,7 @@ ESP32, ESP8266, DIY drones, custom MIDI trigger systems
 - Humor keeps work human. And so does good music.  
 - My pup Layla supervises all commits.
 
-<!-- Divider: C1 Shimmer again for section consistency -->
-<div align="center">
-  <svg width="100%" height="6">
-    <defs>
-      <linearGradient id="shimmer" x1="0" x2="1">
-        <stop offset="0%" stop-color="#555" />
-        <stop offset="50%" stop-color="#999">
-          <animate attributeName="offset"
-                   values="0;1;0"
-                   dur="3s"
-                   repeatCount="indefinite" />
-        </stop>
-        <stop offset="100%" stop-color="#555" />
-      </linearGradient>
-    </defs>
-
-    <rect width="100%" height="6" fill="url(#shimmer)" />
-  </svg>
-</div>
+---
 
 ## GitHub at a glance
 
@@ -123,29 +67,7 @@ ESP32, ESP8266, DIY drones, custom MIDI trigger systems
   </tr>
 </table>
 
-<!-- Divider: C3 Chromatic Drift, cinematic final section -->
-<div align="center">
-  <svg width="100%" height="6">
-    <defs>
-      <linearGradient id="drift">
-        <stop offset="0%" stop-color="#ff6b6b">
-          <animate attributeName="stop-color"
-                   values="#ff6b6b; #feca57; #48dbfb; #a29bfe; #ff6b6b"
-                   dur="8s"
-                   repeatCount="indefinite" />
-        </stop>
-        <stop offset="100%" stop-color="#48dbfb">
-          <animate attributeName="stop-color"
-                   values="#48dbfb; #a29bfe; #ff6b6b; #feca57; #48dbfb"
-                   dur="8s"
-                   repeatCount="indefinite" />
-        </stop>
-      </linearGradient>
-    </defs>
-    
-    <rect width="100%" height="6" fill="url(#drift)" />
-  </svg>
-</div>
+---
 
 <p align="center">
   <i>Building things that make life feel a little more alive.</i>
