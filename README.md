@@ -55,12 +55,12 @@ ESP32, ESP8266, DIY drones, custom MIDI trigger systems
   <tr>
     <td align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=toddpressley&show_icons=true&theme=dracula&hide_border=true&hide_rank=true"
+        src="https://github-readme-stats.vercel.app/api?username=toddpress&show_icons=true&theme=dracula&hide_border=true&hide_rank=true"
       />
     </td>
     <td align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=toddpressley&layout=compact&theme=dracula&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=toddpress&layout=compact&theme=dracula&hide_border=true"
       />
     </td>
   </tr>
