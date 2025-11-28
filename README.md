@@ -13,8 +13,7 @@
 
 ## What I'm working on (lately)
 - **Glint** — a tiny signals-based Web Components framework with a DX that doesn’t hate you  
-- **Twinkle** — a Tailwind-compatible utility CSS library designed for Web Components + Shadow DOM  
-- **Echoes of Me** — a cinematic, privacy-first digital legacy system using LLMs, embeddings & voice  
+- **Twinkle** — a Tailwind-compatible utility CSS library designed for Web Components + Shadow DOM   
 - **Local-first AI** experiments with `llama.cpp`, `Ollama`, RAG, Qdrant, embeddings, async ingestion  
 - **Music tech**: MIDI e-drums, high-realism samplers, Pure Data, improvisational workflow tools  
 
