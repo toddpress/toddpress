@@ -5,18 +5,58 @@
 </h1>
 
 <p align="center">
-  Curious technologist • AI tinkerer • drummer • builder of needlessly ambitious side projects  
+  Curious technologist • AI tinkerer • drummer • builder of unnecessarily ambitious side projects  
 </p>
 
----
+<!-- Divider: C1 Shimmer -->
+<div align="center">
+  <svg width="100%" height="6">
+    <defs>
+      <linearGradient id="shimmer" x1="0" x2="1">
+        <stop offset="0%" stop-color="#555" />
+        <stop offset="50%" stop-color="#999">
+          <animate attributeName="offset"
+                   values="0;1;0"
+                   dur="3s"
+                   repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" stop-color="#555" />
+      </linearGradient>
+    </defs>
+
+    <rect width="100%" height="6" fill="url(#shimmer)" />
+  </svg>
+</div>
 
 ## What I'm working on (lately)
 - **Glint** — a tiny signals-based Web Components framework with a DX that doesn’t hate you  
-- **Twinkle** — a Tailwind-compatible utility CSS library designed for Web Components + Shadow DOM
-- **Local-first AI** experiments with `llama.cpp`, `Ollama`, RAG, embeddings, Qdrant, and Streamlit  
-- **Music tech**: MIDI e-drums, real-time sampler experiments, Pure Data patches, improv workflows  
+- **Twinkle** — a Tailwind-compatible utility CSS library designed for Web Components + Shadow DOM  
+- **Echoes of Me** — a cinematic, privacy-first digital legacy system using LLMs, embeddings & voice  
+- **Local-first AI** experiments with `llama.cpp`, `Ollama`, RAG, Qdrant, embeddings, async ingestion  
+- **Music tech**: MIDI e-drums, high-realism samplers, Pure Data, improvisational workflow tools  
 
----
+<!-- Divider: C2 Twinkle Pulse -->
+<div align="center">
+  <svg width="100%" height="8">
+    <defs>
+      <linearGradient id="twinkle">
+        <stop offset="0%" stop-color="#8EC5FC" />
+        <stop offset="100%" stop-color="#E0C3FC" />
+      </linearGradient>
+
+      <filter id="twinkle-blur">
+        <feGaussianBlur stdDeviation="2">
+          <animate attributeName="stdDeviation"
+                   values="1;3;1"
+                   dur="2.8s"
+                   repeatCount="indefinite" />
+        </feGaussianBlur>
+      </filter>
+    </defs>
+
+    <rect width="100%" height="6" fill="url(#twinkle)" filter="url(#twinkle-blur)" />
+  </svg>
+</div>
 
 ## What I actually use day-to-day
 **Languages:**  
@@ -29,17 +69,15 @@ Glint, Web Components, Tailwind/Twinkle, React, Svelte, Vite
 FastAPI, Node, Express, Spring MVC, Flask
 
 **AI / ML stack:**  
-Local LLMs (`llama.cpp`, Ollama), embeddings (BGE-M3), vector DBs (Qdrant),  
-RAG pipelines, multimodal ingestion, Celery/Redis async workers
+Local LLMs (`llama.cpp`, Ollama), embeddings (BGE-M3), Qdrant, RAG pipelines, multimodal ingestion,  
+Celery/Redis async workers
 
 **Infra & Tools:**  
 Docker, AWS (Lambda, Textract, S3, CloudWatch), GitHub Actions,  
 PostgreSQL, Oracle, Redis, OpenSearch
 
 **Platforms I play with:**  
-ESP32, ESP8266, DIY drones, custom MIDI triggers
-
----
+ESP32, ESP8266, DIY drones, custom MIDI trigger systems
 
 ## A few things that shape how I build
 - I like **signal-based UIs** and architectures that scale down before they scale up.  
@@ -48,21 +86,66 @@ ESP32, ESP8266, DIY drones, custom MIDI triggers
 - Humor keeps work human. And so does good music.  
 - My pup Layla supervises all commits.
 
----
+<!-- Divider: C1 Shimmer again for section consistency -->
+<div align="center">
+  <svg width="100%" height="6">
+    <defs>
+      <linearGradient id="shimmer" x1="0" x2="1">
+        <stop offset="0%" stop-color="#555" />
+        <stop offset="50%" stop-color="#999">
+          <animate attributeName="offset"
+                   values="0;1;0"
+                   dur="3s"
+                   repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" stop-color="#555" />
+      </linearGradient>
+    </defs>
+
+    <rect width="100%" height="6" fill="url(#shimmer)" />
+  </svg>
+</div>
 
 ## GitHub at a glance
+
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=toddpress&show_icons=true&theme=dracula&hide_border=true" />
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=toddpressley&show_icons=true&theme=dracula&hide_border=true&hide_rank=true"
+      />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toddpress&layout=compact&theme=dracula&hide_border=true" />
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=toddpressley&layout=compact&theme=dracula&hide_border=true"
+      />
     </td>
   </tr>
 </table>
 
----
+<!-- Divider: C3 Chromatic Drift, cinematic final section -->
+<div align="center">
+  <svg width="100%" height="6">
+    <defs>
+      <linearGradient id="drift">
+        <stop offset="0%" stop-color="#ff6b6b">
+          <animate attributeName="stop-color"
+                   values="#ff6b6b; #feca57; #48dbfb; #a29bfe; #ff6b6b"
+                   dur="8s"
+                   repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" stop-color="#48dbfb">
+          <animate attributeName="stop-color"
+                   values="#48dbfb; #a29bfe; #ff6b6b; #feca57; #48dbfb"
+                   dur="8s"
+                   repeatCount="indefinite" />
+        </stop>
+      </linearGradient>
+    </defs>
+    
+    <rect width="100%" height="6" fill="url(#drift)" />
+  </svg>
+</div>
 
 <p align="center">
   <i>Building things that make life feel a little more alive.</i>
