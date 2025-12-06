@@ -48,25 +48,27 @@ ESP32, ESP8266, DIY drones, custom MIDI trigger systems
 - My pup Layla supervises all commits.
 
 ---
-
+<!--
 ## GitHub at a glance
 
 <table>
   <tr>
     <td align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=toddpress&show_icons=true&theme=dracula&hide_border=true&hide_rank=true"
+        src="https://github-readme-stats-ochre-iota.vercel.app/api?username=toddpress&show_icons=true&theme=dracula&hide_border=true&hide_rank=true
+"
       />
     </td>
     <td align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=toddpress&layout=compact&theme=dracula&hide_border=true"
+        src="https://github-readme-stats-ochre-iota.vercel.app/api?username=toddpress&show_icons=true&theme=dracula&hide_border=true&hide_rank=true"
       />
     </td>
   </tr>
 </table>
 
 ---
+-->
 
 <p align="center">
   <i>Building things that make life feel a little more alive.</i>
